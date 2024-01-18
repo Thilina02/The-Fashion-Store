@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgb(86, 86, 51);
+    color: rgb(27, 28, 8);
+    font-variant-caps: petite-caps;
+    text-decoration: underline dotted rgb(76, 72, 23) 5px;
+   
+    
+    
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 180px;
+    
+  }
+
+.a{
+    text-align: center;
+    font-style: bold;
+    font-size: 20px;
+    font-style: bold;
+    font-variant-caps: petite-caps;
+    color:rgb(5, 0, 9);
+    text-size-adjust: 50px;
+    
+   
+    
+}
+*{
+    margin:0;
+    padding: 0;
+}
+
+    
+.backgrd{
+        
+        background-color: #e5dede;
+        height: 900px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        opacity: 1.5;
+        
+       
+}
+.hero{
+    background-color: beige;
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    background-size: auto;
+    padding: 15px;
+
+    
+}
+.container{
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.border{
+
+        border: 20px solid transparent;
+        padding: -5px;
+        border-image: url('C:/Users/Heshi/Desktop/about us/border.png') 30 stretch;
+      
+}

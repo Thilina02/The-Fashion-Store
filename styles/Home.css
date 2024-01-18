@@ -1,0 +1,213 @@
+body{
+    background-image: url("C:/Users/Sandaru/Desktop/Online Fashion Store/image/background.jpg");
+    font-family: sans-serif;
+}
+
+
+
+#h3{
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold ;
+}
+
+ul.menu{
+    background-color: #333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 5px;
+    
+}
+
+li.menu{
+    float: right;
+}
+
+
+
+li a{
+    width: 130px;
+    padding: 10px 14px;
+    font-size: 13px;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    display:block;
+    color: lightslategray;
+    text-align: center;
+    letter-spacing: 0.1px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: azure;
+}
+
+form.menu{
+    margin-top: 2px;
+    float: left;
+    margin-right: 100px;
+    
+    
+    
+}
+
+input[type=text]{
+    margin: 5px 2px;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: monospace;
+    background: transparent;
+    border: 1px solid azure;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+ .button{
+    float:right;
+    padding: 5px;
+    border-radius: 10px;
+   
+    position: relative;
+    margin-top: 5px;
+    font-size:12px ;
+    font-family: sans-serif;
+    cursor: pointer;
+    background-color: rgb(133, 124, 215);
+    border-top: none;
+    border-right: none;
+
+
+ }
+
+
+.button1{
+    display: inline-block;
+    padding: 10px;
+    font-size: 14px;
+    background:rgb(41, 196, 248);
+    width: 100px;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+
+
+.user{
+    margin-right: 90px;
+}
+
+.font{
+    font-size: 10px; 
+    opacity: 2;
+   
+}
+
+.font1{
+    font-size: 12px;
+    color: whitesmoke; 
+    font-family: sans-serif;
+    opacity: 2;
+
+}
+
+table.table2{
+    opacity: 2;
+}
+
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color:rgb(72, 69, 69);
+    opacity: 0.8;
+    
+  }
+
+  
+
+  
+    
+
+  
+
+.shoppingbal{
+    padding-bottom: 14px;
+    font-size: 10px;
+
+}
+
+.right{
+    text-align: left;
+}
+
+
+ul{
+    align-content: center;
+    list-style: none;
+    font-family: sans-serif;
+    
+}
+
+ul :hover{
+    color: rgb(255, 246, 246);
+
+}
+
+.position{
+    
+    padding-right: 3%;
+    
+
+}
+
+.balfuter{
+
+    padding-top: 2%;
+   
+}
+
+.bakft{
+    padding-top: 20px;
+    width: 75%;
+    height: 20%;
+}
+.button2{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.ad1{
+    width: 20%;
+    height: 20%;
+    padding-left: 100px;
+}
+
+.ad2{
+    width: 30%;
+    height: 30%;
+    padding-right: 200px;
+  
+}
+
+.ad3{
+    
+    height: 500px;
+    padding-left: 190px;
+}
+
+
